@@ -171,5 +171,3 @@ Item button**.
 # Lab Exercise: #
 
 NEXT: [Lab 1.7: Creating and Publishing Content Item](113-CecsLab.md) >>
-
-<< [HOME](../README.md)
