@@ -10,6 +10,7 @@ In this exercise, you will create a CafeSupremo marketing site using pre-install
 >[What is the Site building process—in a nutshell?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-is-process-nutshell.html)
 
 >[What are content types, content items, and collections?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-are-content-types-content-items-and-collections.html)
+
 ---
 
 ### 1.1.1 Create a Site ###
@@ -68,8 +69,7 @@ the assets.
 because the **“Select All”** can only select items on current page.
 
 ---
+
 # Lab Exercise: #
 
 NEXT: [Lab 1.2: Creating Content Type](112-CecsLab.md) >>
-
-<< [HOME](../README.md)
