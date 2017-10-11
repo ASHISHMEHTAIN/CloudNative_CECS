@@ -168,6 +168,4 @@ Item button**.
 ||Tile View: `Promo-Details`|
 
 ---
-# Lab Exercise: #
-
 NEXT: [Lab 1.7: Creating and Publishing Content Item](113-CecsLab.md) >>
