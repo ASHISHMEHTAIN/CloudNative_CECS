@@ -35,8 +35,5 @@ created in previous exercise.
 3. Verify the status of all items in this collection are published.
 
 ---
-
-# Lab Exercise: #
-
 NEXT: [Lab 1.4: Using Content Item in Sites](114-CecsLab.md) >>
 
