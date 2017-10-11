@@ -2,8 +2,6 @@
 
 ## Lab 1.4. Using Content Item in Sites ##
 
----
-
 ### 1.4.1. Update the Content Layout Components ###
 
 You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
@@ -122,7 +120,5 @@ blog item is displayed on the page.
 ![](../images/1.8.3.9.png)
 
 ## Congratulations! You have successfully completed this Sites and Content lab. ##
----
-# Lab Exercise: #
 
-<< [Back to CECS Cloud Test Drive Home](../README.md) >>
+[Back to CECS Cloud Test Drive Home](../README.md)
