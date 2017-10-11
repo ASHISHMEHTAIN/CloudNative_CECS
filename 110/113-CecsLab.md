@@ -38,6 +38,6 @@ created in previous exercise.
 ---
 # Lab Exercise: #
 
-NEXT: [Lab 1.8: Using Content Item in Sites](114-CecsLab.md) >>
+NEXT: [Lab 1.4: Using Content Item in Sites](114-CecsLab.md) >>
 
-<< [HOME](../README.md)
+[HOME](../README.md)
