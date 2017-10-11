@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 2C: Working with Process Forms in Experience Cloud ##
+## Lab 2: Working with Process Forms in Experience Cloud ##
 
 ### 1.	Introduction ###
 
@@ -232,5 +232,5 @@ Now you are ready to check the results.
 
 ### Congratulations you have completed the Lab! ###
 
-# Lab Exercise: #
+---
 [Back to CECS Cloud Test Drive Home](../README.md)
