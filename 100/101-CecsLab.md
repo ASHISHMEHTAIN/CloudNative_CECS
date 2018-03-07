@@ -1,14 +1,17 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1: Get started with Content and Experience ##
+## Facilitators Instructions ##
 
 ### 1.1. Introduction ###
 
-This lab will teach you how to create content items and use it in the site. 
-The objectives of this lab are to: 
+These steps will show you how to setup the participants environments before commence of the Test Drive.
 
-1. Learn how to create a site using template and create a collection. 
-2. Learn how to create and publish content items 
+**Note these steps will need to be repeated for all instances that will be used in the test drive session**
+
+You will be setting up the following: 
+
+1. Create a site using template and create a collection. 
+2. Create and publish content items 
 3. Learn how to use the content items in sites 
 
 
