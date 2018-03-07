@@ -2,7 +2,7 @@
 
 ## Facilitators Instructions ##
 
-### 1.1. Introduction ###
+### Introduction ###
 
 These steps will show you how to setup the participants environments before commence of the Test Drive.
 
@@ -25,19 +25,7 @@ You will be setting up the following:
 >**Note:** Click on the links to download the resources to your local machine.
 
 
-## Lab 1.3. Upload Lab Resources to Content and Experience Cloud ##
-
-### About this Lab ###
-
-You need to upload the resources to your CEC environment. You can upload resources using the Web Interface, illustrated below or make use of the Desktop Client. 
-
->[What kind of content can I manage?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-kind-content-can-i-manage.html)
-
->[What can I do with my files and folders?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-can-i-do-my-files-and-folders.html)
-
->[How do I upload files?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-upload-files-browser.html)
-
-
+## Upload Lab Resources to Content and Experience Cloud ##
 ### Upload Resources ###
 
 1. Login to CEC. 
@@ -53,8 +41,44 @@ You need to upload the resources to your CEC environment. You can upload resourc
 
 6. Click the **Close** button to close the upload pop up window. 
 
----
-# Lab Exercise: #
-Next: [Lab 1.2. Lab Resources](102-CecsLab.md) >>
+## Import Template and Components ##
 
-<< [Back to CECS Cloud Test Drive Home](../README.md)
+### Import Template ###
+
+1. Navigate to ``Experience -> Templates``. Click ``Create -> Import`` to import a template package.
+
+![](../images/1.4.1.1.png)
+
+2. Select the Templates folder, then select the CafeSupremo.zip and click **“OK”**. 
+
+>Note: If you are prompted to replace or create a new component, just except the default by clicking **OK**.
+
+<img src="../images/1.4.1.2.png" width="50%"/> 
+
+3. You have successfully imported the template. 
+
+![](../images/1.4.1.3.png)
+
+### Publish the Components ###
+
+1. Navigate to the ``Experience -> Components`` page 
+2. Select the components and click the **“Publish”** link. You may also select the component and right click to bring up the context menu to publish the component. 
+The menu bar will not appear until a selection is made. 
+
+![](../images/1.4.2.2.png)
+
+**_Note:_**
+
+>You need to repeat this step until all content layout components are published. 
+
+>If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
+
+<img src="../images/1.4.2.2.a.png" width="50%"/>
+
+3. On the publish component page, click **“Confirm to proceed”** and then OK to publish the component. 
+
+<img src="../images/1.4.2.3.png" width="50%"/>
+
+4. You have successfully published the component. 
+
+![](../images/1.4.2.4.png)
