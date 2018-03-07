@@ -17,6 +17,13 @@ You will be setting up the following:
 
 >For a quick view on Content and Experience Browser user interface please click [here](https://docs.oracle.com/en/cloud/paas/content-cloud/user/quick-overview-your-browser-home-page.html).
 
+## Lab Resources ##
+
+1. [CafeSupremo.zip](../resources/CafeSupremo.zip) - CafeSupremo Marketing site template and components 
+2. [Images.zip](../resources/Images.zip) – Images required for the CafeSupremo Marketing site.
+
+>**Note:** Click on the links to download the resources to your local machine.
+
 # Lab Exercise: #
 Next: [Lab 1.2. Lab Resources](102-CecsLab.md) >>
 
