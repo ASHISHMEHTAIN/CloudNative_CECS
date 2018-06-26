@@ -20,4 +20,4 @@ You will be provided with username and pwd during the lab.
 ### 3.	Lab Resources ###
 There are no pre-requisites for this lab.
 
-#### Lab Exercise: #### [Back](../README.md) | [Next: Setting the workflow in CEC](202-CecsPCSLab.md)
+[Back](../README.md) | [Next: Setting the workflow in CEC](202-CecsPCSLab.md)
