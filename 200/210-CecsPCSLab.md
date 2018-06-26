@@ -25,7 +25,7 @@ In this lab we will look into how we can configure a process form into a Experie
 
 <img src="images/210-1-3.png" width="100%"/>
 
-4. A dialog menu will appear Choose the **CustomerBlog.exp** file you should download from [here (CustomerBlog.exp)](../resource/CustomerBlog.exp)
+4. A dialog menu will appear Choose the **CustomerBlog.exp** file you should download from [here (CustomerBlog.exp)](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS/blob/Content_and_Experience/resources/CustomerBlog.exp)
 
 <img src="images/210-1-4.png" width="50%"/>
 
