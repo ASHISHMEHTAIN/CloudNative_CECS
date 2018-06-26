@@ -127,5 +127,4 @@ b.	The Meta-Data is updated on the document.
 
 ### Congratulations you have completed the Lab! ###
 
-# Lab Exercise: #
-[Lab 2B: Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md) | [Back to CECS Cloud Test Drive Home](../README.md)
+[CECS Cloud Test Drive Home](../README.md)
